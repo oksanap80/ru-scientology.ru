@@ -1,2 +1,2 @@
 # ru-scientology.ru
-Example
+Sample
