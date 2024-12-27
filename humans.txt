@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alexei Danchenkov -- Developer -- @aledanrex
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+
